@@ -20,7 +20,7 @@
 <ul>
    <li>Add Dependency to our SpringBoot project Template</li>
 <li>WEB Dependency is Enough for Basic Hello World app</li>
-<li>Then Click on <h3>Generate Button</h3> to download our project template</li>
+<li>Then Click on <b style="color:red">Generate Button</b> to download our project template</li>
 </ul>
 **Step 3:** <br/>
 
