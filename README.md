@@ -2,18 +2,18 @@
 
 
 Step 1:
-   We Need to Create SpringBoot Project Template, 
-   Follow below steps
-   Go to link : https://start.spring.io/
-   Fill out :
-   Group :
-   Artifact :
+   We Need to Create SpringBoot Project Template, <br/>
+   Follow below steps <br/>
+   Go to link : https://start.spring.io/ <br/>
+   Fill out : <br/>
+   Group : <br/>
+   Artifact : <br/>
    
-   Like bellow
+   Like bellow <br/>
    
-   Group : com.tcdc
-   Artifact : Name of the project
+   Group : com.tcdc <br/>
+   Artifact : Name of the project <br/>
    
-Step 2:
+Step 2: <br/>
 
-Add Dependency to our SpringBoot project Template
+Add Dependency to our SpringBoot project Template <br/>
