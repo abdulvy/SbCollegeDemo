@@ -19,4 +19,4 @@
 
 Add Dependency to our SpringBoot project Template <br/>
 WEB Dependency is Enough for Basic Hello World app
-Then Click on ###Generate### Button to download our project template
+Then Click on <h3>Generate<h3> Button to download our project template
