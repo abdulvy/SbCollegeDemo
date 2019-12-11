@@ -23,7 +23,15 @@
 <li>Then Click on <b >Generate Button</b> to download our project template</li>
 </ul>
 
-<b>Step 3:<b> <br/>
+<b>Step 3:</b> <br/>
+<ul>
+<li>Unzip the project Template and copy to your desired location</li>
+ <li>Now Click on FILE->IMPORT->EXISTING MAVEN PROJECT</li>
+ <li>Click On Browse and Select the Project Location</li>
+  <li>Click on Finish Button</li>
+</ul>
+
+<b>Step 4:</b> <br/> 
 <ul>
 <li>Unzip the project Template and copy to your desired location</li>
  <li>Now Click on FILE->IMPORT->EXISTING MAVEN PROJECT</li>
