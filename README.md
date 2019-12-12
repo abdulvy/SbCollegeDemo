@@ -45,12 +45,12 @@
  <li>Now add prefix and suffix to property file</li>
 </ul>
 
-      		<dependency>
+      	<dependency>
 			<groupId>org.apache.tomcat.embed</groupId>
 			<artifactId>tomcat-embed-jasper</artifactId>
 		</dependency>
       
-      <b>Prefix and Sufix for properties file<b>
+ <b>Prefix and Sufix for properties file</b>
       
       spring.mvc.view.prefix:/WEB-INF/view/
       spring.mvc.view.suffix:.jsp
