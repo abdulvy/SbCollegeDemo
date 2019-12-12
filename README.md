@@ -51,12 +51,12 @@
 <b>Step 6:</b> <br/>
 <ul>
 <li>Add Jasper Dependency to support JSP pages in springboot</li>
- <li>Create folder under mail folder Ex:- webapp->WEB-INF->view </li>
+ <li>Create folder under src->main folder Ex:- webapp->WEB-INF->view </li>
  <li>Inside view folder create a JSP page</li>
  <li>Now add prefix and suffix to property file</li>
-  <li></li> 
-</ul>
-
+ </ul>
+ 
+ <b>Jasper Dependency</b>
       	<dependency>
 			<groupId>org.apache.tomcat.embed</groupId>
 			<artifactId>tomcat-embed-jasper</artifactId>
