@@ -43,6 +43,7 @@
  <li>Create folder under mail folder Ex:- webapp->WEB-INF->view </li>
  <li>Inside view folder create a JSP page</li>
  <li>Now add prefix and suffix to property file</li>
+  <li>now add ComponentScan anotation to Application.java file</li> 
 </ul>
 
       	<dependency>
@@ -55,5 +56,5 @@
       spring.mvc.view.prefix:/WEB-INF/view/
       spring.mvc.view.suffix:.jsp
       
-      
+      @ComponentScan("com.tcdc")
 
