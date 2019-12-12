@@ -37,13 +37,24 @@
  <li>Run the Project</li>
 </ul>
 
-<b>Step 5:</b> <br/>
+  <b>Step 5:</b> <br/>
+<ul>
+  <li>Creating Controller class inside a new package</li>
+  <li>Add @Controller Anotation to our Controller class</li>
+  <li>Create a method inside Controller and Add @GetMapping() anotation to the Method</li>
+  <li>now add ComponentScan anotation to Application.java file</li>
+  <li>now run the project</li>
+</ul>
+       
+       @ComponentScan("com.tcdc")
+
+<b>Step 6:</b> <br/>
 <ul>
 <li>Add Jasper Dependency to support JSP pages in springboot</li>
  <li>Create folder under mail folder Ex:- webapp->WEB-INF->view </li>
  <li>Inside view folder create a JSP page</li>
  <li>Now add prefix and suffix to property file</li>
-  <li>now add ComponentScan anotation to Application.java file</li> 
+  <li></li> 
 </ul>
 
       	<dependency>
@@ -56,7 +67,7 @@
       spring.mvc.view.prefix:/WEB-INF/view/
       spring.mvc.view.suffix:.jsp
       
-  Now add ComponentScan anotation to Application.java file
+
       
-      @ComponentScan("com.tcdc")
+
 
