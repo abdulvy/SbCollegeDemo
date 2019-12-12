@@ -33,8 +33,27 @@
 
 <b>Step 4:</b> <br/> 
 <ul>
-<li>Unzip the project Template and copy to your desired location</li>
- <li>Now Click on FILE->IMPORT->EXISTING MAVEN PROJECT</li>
- <li>Click On Browse and Select the Project Location</li>
-  <li>Click on Finish Button</li>
+<li>Now open the eclipse and import the project to eclipse</li>
+ <li>Run the Project</li>
 </ul>
+
+<b>Step 5:</b> <br/>
+<ul>
+<li>Add Jasper Dependency to support JSP pages in springboot</li>
+ <li>Create folder under mail folder Ex:- webapp->WEB-INF->view </li>
+ <li>Inside view folder create a JSP page</li>
+ <li>Now add prefix and suffix to property file</li>
+</ul>
+
+      <dependency>
+			<groupId>org.apache.tomcat.embed</groupId>
+			<artifactId>tomcat-embed-jasper</artifactId>
+		</dependency>
+      
+      Prefix and Sufix for properties file
+      
+      spring.mvc.view.prefix:/WEB-INF/view/
+      spring.mvc.view.suffix:.jsp
+      
+      
+
