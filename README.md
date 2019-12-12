@@ -56,5 +56,7 @@
       spring.mvc.view.prefix:/WEB-INF/view/
       spring.mvc.view.suffix:.jsp
       
+  Now add ComponentScan anotation to Application.java file
+      
       @ComponentScan("com.tcdc")
 
